@@ -1,0 +1,810 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 2,
+      "columnProportion": "0.5-0.5",
+      "creationTime": 1491166786434,
+      "dashboardNavigations": {
+         "16a1d991-eac6-4ccf-9706-10e7712de49c": [
+            {
+               "id": "bb212f4a-8025-4ef1-9252-67c90b97cd74",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "40ed30b0-d004-426b-9f1a-226895b24d65",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "3f96e409-9c57-4af8-b345-15972f8ef175",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "8934f615-1c5b-4ec0-8ce5-26acb9dfc4c5",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "1ee57c40-5a73-46b0-9846-4c22d5b4cdda",
+               "selected": true,
+               "widgets": [
+                  "e2b1b0ef-2967-4aaf-ae36-a7a5e27cae07",
+                  "79c136db-b1e6-4163-a279-963b040152c0",
+                  "427b259b-ee89-4b1b-867f-b06525d39ae7"
+               ]
+            },
+            {
+               "id": "4b6b0d3e-ff2a-4f16-aa81-0c64fe158344",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "ddc96563-61e9-4860-b13c-c62781f1e6b4",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "951016ee-c345-4292-9674-05ddf3d7ec03",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "060497cb-41ce-4abf-a9ae-8bd362e36d25",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "38d6a2f4-2697-49c0-936d-12f21683b117",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "9b5a61dc-29cc-4cfb-b2d8-60e135598d2a",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "0cd0cd12-4e8e-4553-a38a-aba6643ba622",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "d3811524-efef-4baf-bb57-1dbda2520480",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "cd4b1dda-77f9-47d1-9882-ee97b56da856",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "a8b9ac75-d92c-4855-b108-58bf7111fc40",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "843fbd7e-35ed-4ed0-a58c-bc9543fb7e2b",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "2a570a5e-bd30-4b6e-b9a3-28c5e02be2aa",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "cce135dc-1a4d-497d-8ada-3462d207d328",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "4eaea82a-7437-4f11-92af-0c4307bc6d2e",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "4b5c602a-6105-48d4-9318-d37c27ba1209",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "c8e757e0-2acd-4bb7-908c-e9520be45c53",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "63903603-2418-4005-8d57-a8f3ef40c26c",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "5944ba75-3fb7-461e-950f-99c06eb04e47",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "3ce6557d-8b49-4d22-aca0-79e4de828e4e",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "169c43d9-9ecf-41fd-acd4-95e1703f1d10",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "a186e6aa-3de0-4318-9a8f-e7b35efe4ad7",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "6a8f3750-143d-40d0-873f-d8af385e3773",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "6a56ac8e-7d2d-481e-9407-5af3c4248bde",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "103d80ba-7588-46e3-83d9-2e02f65a9c85",
+               "selected": false,
+               "widgets": []
+            }
+         ],
+         "dcf9d38b-c523-4864-83d3-93cfb2ba79d6": [
+            {
+               "id": "bb212f4a-8025-4ef1-9252-67c90b97cd74",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "40ed30b0-d004-426b-9f1a-226895b24d65",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "3f96e409-9c57-4af8-b345-15972f8ef175",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "8934f615-1c5b-4ec0-8ce5-26acb9dfc4c5",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "1ee57c40-5a73-46b0-9846-4c22d5b4cdda",
+               "selected": true,
+               "widgets": [
+                  "e2b1b0ef-2967-4aaf-ae36-a7a5e27cae07",
+                  "79c136db-b1e6-4163-a279-963b040152c0",
+                  "427b259b-ee89-4b1b-867f-b06525d39ae7"
+               ]
+            },
+            {
+               "id": "4b6b0d3e-ff2a-4f16-aa81-0c64fe158344",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "ddc96563-61e9-4860-b13c-c62781f1e6b4",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "951016ee-c345-4292-9674-05ddf3d7ec03",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "060497cb-41ce-4abf-a9ae-8bd362e36d25",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "38d6a2f4-2697-49c0-936d-12f21683b117",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "9b5a61dc-29cc-4cfb-b2d8-60e135598d2a",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "0cd0cd12-4e8e-4553-a38a-aba6643ba622",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "d3811524-efef-4baf-bb57-1dbda2520480",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "cd4b1dda-77f9-47d1-9882-ee97b56da856",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "a8b9ac75-d92c-4855-b108-58bf7111fc40",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "843fbd7e-35ed-4ed0-a58c-bc9543fb7e2b",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "2a570a5e-bd30-4b6e-b9a3-28c5e02be2aa",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "cce135dc-1a4d-497d-8ada-3462d207d328",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "4eaea82a-7437-4f11-92af-0c4307bc6d2e",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "4b5c602a-6105-48d4-9318-d37c27ba1209",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "c8e757e0-2acd-4bb7-908c-e9520be45c53",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "63903603-2418-4005-8d57-a8f3ef40c26c",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "5944ba75-3fb7-461e-950f-99c06eb04e47",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "3ce6557d-8b49-4d22-aca0-79e4de828e4e",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "169c43d9-9ecf-41fd-acd4-95e1703f1d10",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "a186e6aa-3de0-4318-9a8f-e7b35efe4ad7",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "6a8f3750-143d-40d0-873f-d8af385e3773",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "6a56ac8e-7d2d-481e-9407-5af3c4248bde",
+               "selected": false,
+               "widgets": []
+            },
+            {
+               "id": "103d80ba-7588-46e3-83d9-2e02f65a9c85",
+               "selected": false,
+               "widgets": []
+            }
+         ]
+      },
+      "disabled": false,
+      "id": "b567cd33-9998-4627-9fab-f0102135f547",
+      "importAttempts": 0,
+      "importComplete": true,
+      "isDefault": false,
+      "locked": false,
+      "name": "SSL VPN/ InfraStructure Dashboard",
+      "namePath": "SSL VPN",
+      "rank": 100,
+      "shared": false,
+      "temporary": false,
+      "userId": "884448c1-d8ca-400e-b97e-1096507ed7a5",
+      "widgetInteractions": [
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "16a1d991-eac6-4ccf-9706-10e7712de49c",
+            "widgetIdReceiver": "f897c874-5086-49e1-92ca-b32032f4fb58"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "dcf9d38b-c523-4864-83d3-93cfb2ba79d6",
+            "widgetIdReceiver": "16a1d991-eac6-4ccf-9706-10e7712de49c"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "16a1d991-eac6-4ccf-9706-10e7712de49c",
+            "widgetIdReceiver": "cdd5862b-531f-4340-bb8e-b80d4d6e0342"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "16a1d991-eac6-4ccf-9706-10e7712de49c",
+            "widgetIdReceiver": "ccbcdab7-699a-431c-9602-ff842cedee51"
+         },
+         {
+            "type": "metricId",
+            "widgetIdProvider": "ccbcdab7-699a-431c-9602-ff842cedee51",
+            "widgetIdReceiver": "f68182ed-055d-4a8a-9b73-26906e4ebd4c"
+         }
+      ],
+      "widgets": [
+         {
+            "collapsed": false,
+            "config": {
+               "impactedBadge": "",
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "selfProvider": {"selfProvider": false},
+               "title": "Top Issues",
+               "topIssuesDisplayLimit": 5,
+               "triggeredObject": {"triggeredObject": "self"}
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 1,
+               "y": 19
+            },
+            "height": 170,
+            "id": "f897c874-5086-49e1-92ca-b32032f4fb58",
+            "title": "Top Issues",
+            "type": "ProblemAlertsList",
+            "x": 1,
+            "y": 3
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "additionalColumns": [{
+                  "boxLabel": "",
+                  "metricKey": "badge|health",
+                  "metricName": "Badge|Health (%)",
+                  "resourceKindId": "002017SDDCHealthAdapterSDDC NSX World"
+               }],
+               "mode": {"mode": 0},
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "selectFirstRow": {"selectFirstRow": true},
+               "tagFilter": {
+                  "path": [
+                     "/source/kind/kind:resourceKind:id:0_::_",
+                     "/source/kind/kind:resourceKind:id:1_::_",
+                     "/source/kind/kind:resourceKind:id:2_::_",
+                     "/source/kind/kind:resourceKind:id:3_::_",
+                     "/source/kind/kind:resourceKind:id:4_::_"
+                  ],
+                  "value": {
+                     "adapterInstance": [],
+                     "adapterKind": [],
+                     "bus": [],
+                     "collector": [],
+                     "day": [],
+                     "exclaim": false,
+                     "healthRange": [],
+                     "kind": [
+                        "resourceKind:id:0_::_",
+                        "resourceKind:id:1_::_",
+                        "resourceKind:id:2_::_",
+                        "resourceKind:id:3_::_",
+                        "resourceKind:id:4_::_"
+                     ],
+                     "maintenanceSchedule": [],
+                     "state": [],
+                     "status": [],
+                     "tag": [],
+                     "tier": []
+                  }
+               },
+               "title": "Objects"
+            },
+            "gridsterCoords": {
+               "h": 8,
+               "w": 2,
+               "x": 1,
+               "y": 1
+            },
+            "height": 278,
+            "id": "dcf9d38b-c523-4864-83d3-93cfb2ba79d6",
+            "states": [{
+               "key": "permResGrid_widget_b567cd33-9998-4627-9fab-f0102135f547_dcf9d38b-c523-4864-83d3-93cfb2ba79d6",
+               "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%25255Ewidth%25253Dn%2525253A143%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah5%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah6%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A0%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah17%25255Ehidden%25253Db%2525253A0%25255Ewidth%25253Dn%2525253A92%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%5EstoreState%3Do%253Asorters%253Da%25253Ao%2525253Aroot%2525253Ds%252525253Adata%2525255Eproperty%2525253Ds%252525253AresourceCollectionStatus%2525255Edirection%2525253Ds%252525253AASC"
+            }],
+            "title": "Objects",
+            "type": "ResourceList",
+            "x": 2,
+            "y": 1
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "custom": [{
+                  "lightWeightRelationships": [
+                     {
+                        "id": "extModel5696-2",
+                        "key": "widget.topologyGraph.child",
+                        "lineStyle": "solid",
+                        "name": "",
+                        "propKeyPrefix": "",
+                        "relationship": "child",
+                        "subType": "",
+                        "type": "child"
+                     },
+                     {
+                        "id": "extModel5696-1",
+                        "key": "widget.topologyGraph.parent",
+                        "lineStyle": "solid",
+                        "name": "",
+                        "propKeyPrefix": "",
+                        "relationship": "~child",
+                        "subType": "",
+                        "type": "~child"
+                     },
+                     {
+                        "id": "extModel5696-4",
+                        "key": "widget.topologyGraph.connectedTo.LNET",
+                        "lineStyle": "double",
+                        "name": "",
+                        "propKeyPrefix": "relation",
+                        "relationship": "connectedTo",
+                        "subType": "LNET",
+                        "type": "connectedTo.LNET"
+                     },
+                     {
+                        "id": "extModel5696-5",
+                        "key": "widget.topologyGraph.connectedTo.PNET",
+                        "lineStyle": "double",
+                        "name": "",
+                        "propKeyPrefix": "relation",
+                        "relationship": "connectedTo",
+                        "subType": "PNET",
+                        "type": "connectedTo.PNET"
+                     }
+                  ],
+                  "selectedConfigFile": "NSX-vSphere Topology Configuration",
+                  "selectedLayoutType": "force",
+                  "travSpecs": [
+                     {
+                        "description": "View the physical network topology of a Host",
+                        "id": "extModel5686-1",
+                        "key": "NSX-vSphere Physical Topology for a Host-VMWARE-HostSystem",
+                        "name": "NSX-vSphere Physical Topology for a Host",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of a Logical Router",
+                        "id": "extModel5686-2",
+                        "key": "NSX-vSphere Physical Topology for a Logical Router-NSX-LogicalRouter",
+                        "name": "NSX-vSphere Physical Topology for a Logical Router",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of a Virtual Machine",
+                        "id": "extModel5686-3",
+                        "key": "NSX-vSphere Physical Topology for a VM-VMWARE-VirtualMachine",
+                        "name": "NSX-vSphere Physical Topology for a VM",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of a Logical Switch",
+                        "id": "extModel5686-4",
+                        "key": "NSX-vSphere Physical Topology for a Logical Switch-NSX-LogicalSwitch",
+                        "name": "NSX-vSphere Physical Topology for a Logical Switch",
+                        "relations": [
+                           "connectedTo.LNET",
+                           "~child",
+                           "connectedTo.PNET"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX DCHP Edge Service",
+                        "id": "extModel5686-5",
+                        "key": "NSX-vSphere Physical Topology for an NSX DHCP Edge Service-NSX-DHCPEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX DHCP Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX DNS Edge Service",
+                        "id": "extModel5686-6",
+                        "key": "NSX-vSphere Physical Topology for an NSX DNS Edge Service-NSX-DNSEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX DNS Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX Edge",
+                        "id": "extModel5686-7",
+                        "key": "NSX-vSphere Physical Topology for an NSX Edge-NSX-EdgeServicesGateway",
+                        "name": "NSX-vSphere Physical Topology for an NSX Edge",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX Firewall Edge Service",
+                        "id": "extModel5686-8",
+                        "key": "NSX-vSphere Physical Topology for an NSX Firewall Edge Service-NSX-FirewallEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX Firewall Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX IPSec VPN Edge Service",
+                        "id": "extModel5686-9",
+                        "key": "NSX-vSphere Physical Topology for an NSX IPSec VPN Edge Service-NSX-IPSecEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX IPSec VPN Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX L2 VPN Edge Service",
+                        "id": "extModel5686-10",
+                        "key": "NSX-vSphere Physical Topology for an NSX L2 VPN Edge Service-NSX-L2VPNEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX L2 VPN Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX Load Balancer Edge Service",
+                        "id": "extModel5686-11",
+                        "key": "NSX-vSphere Physical Topology for an NSX Load Balancer Edge Service-NSX-LoadBalancerEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX Load Balancer Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX NAT Edge Service",
+                        "id": "extModel5686-12",
+                        "key": "NSX-vSphere Physical Topology for an NSX NAT Edge Service-NSX-NATEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX NAT Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX Routing Edge Service",
+                        "id": "extModel5686-13",
+                        "key": "NSX-vSphere Physical Topology for an NSX Routing Edge Service-NSX-RoutingEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX Routing Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     },
+                     {
+                        "description": "View the physical network topology of an NSX SSL VPN Edge Service",
+                        "id": "extModel5686-14",
+                        "key": "NSX-vSphere Physical Topology for an NSX DHCP SSL VPN Service-NSX-SSLVPNEdgeService",
+                        "name": "NSX-vSphere Physical Topology for an NSX SSL VPN Edge Service",
+                        "relations": [
+                           "~child",
+                           "connectedTo.PNET",
+                           "child"
+                        ]
+                     }
+                  ]
+               }],
+               "depth": 4,
+               "filterMode": {"leafExpand": false},
+               "mode": "node",
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "resInteractionMode": "NSX-vSphere Topology Properties",
+               "resource": {"resourceName": ""},
+               "resources": [
+                  {"resourceName": ""},
+                  {"resourceName": ""}
+               ],
+               "selfProvider": {"selfProvider": false},
+               "title": "Physical Topology",
+               "treeType": {"treeType": false}
+            },
+            "gridsterCoords": {
+               "h": 8,
+               "w": 2,
+               "x": 3,
+               "y": 1
+            },
+            "height": 278,
+            "id": "16a1d991-eac6-4ccf-9706-10e7712de49c",
+            "states": [
+               {
+                  "key": "permNewlyConfigured_widget_b567cd33-9998-4627-9fab-f0102135f547_16a1d991-eac6-4ccf-9706-10e7712de49c",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permGraphData_widget_b567cd33-9998-4627-9fab-f0102135f547_16a1d991-eac6-4ccf-9706-10e7712de49c",
+                  "value": "s%3A%7B%22nodesMap%22%3A%7B%7D%2C%22linksMap%22%3A%7B%7D%2C%22relationshipMap%22%3A%7B%7D%2C%22expandedNodesMap%22%3A%7B%7D%2C%22layout%22%3A%7B%22zoom%22%3A1%2C%22x%22%3A140.70801359367294%2C%22y%22%3A76.7052675355949%7D%2C%22links%22%3A%5B%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%226f85a754-fa42-4baa-a308-3d09487a1f52%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%223a22d966-e4c2-4dc8-9218-25f815c71efc%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%22d4f6e4d3-ef11-496e-ae3e-713b1c210eb6%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%226f85a754-fa42-4baa-a308-3d09487a1f52%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2213ecdf7d-2775-45df-93a1-051111a32ae9%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%22d4f6e4d3-ef11-496e-ae3e-713b1c210eb6%22%2C%22lineStyle%22%3A%22solid%22%7D%5D%2C%22nodes%22%3A%5B%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/VMWARE_VirtualMachine.png%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A2%2C%22index%22%3A0%2C%22resknd%22%3A%22Virtual%20Machine%22%2C%22uuid%22%3A%226f85a754-fa42-4baa-a308-3d09487a1f52%22%2C%22resKndId%22%3A%22002006VMWAREVirtualMachine%22%2C%22reskndKey%22%3A%22VirtualMachine%22%2C%22root%22%3Afalse%2C%22name%22%3A%22srvnsxedge01-0%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%7B%22attrkey%22%3A%22net%7Cdefault_gateway%22%2C%22label%22%3A%22Default%20Gateway%22%7D%2C%7B%22attrkey%22%3A%22net%7Csubnet_mask%22%2C%22label%22%3A%22Subnet%20Mask%22%7D%2C%7B%22attrkey%22%3A%22net%7CMAC%20Address%22%2C%22label%22%3A%22MAC%20Address%22%7D%2C%7B%22attrkey%22%3A%22summary%7Cruntime%7CpowerState%22%2C%22label%22%3A%22Power%20State%22%7D%2C%7B%22attrkey%22%3A%22config%7Chardware%7CnumCpu%22%2C%22label%22%3A%22Provisioned%20vCPUs%22%7D%2C%7B%22attrkey%22%3A%22summary%7Cguest%7CtoolsRunningStatus%22%2C%22label%22%3A%22VMware%20Tools%20Status%22%7D%2C%7B%22attrkey%22%3A%22config%7Chardware%7CdiskSpace%22%2C%22label%22%3A%22Provisioned%20Disk%20Space%22%7D%2C%7B%22attrkey%22%3A%22config%7CguestFullName%22%2C%22label%22%3A%22Guest%20Full%20Name%22%7D%2C%7B%22attrkey%22%3A%22config%7Chardware%7CmemoryKB%22%2C%22label%22%3A%22Provisioned%20vRAM%22%7D%2C%7B%22attrkey%22%3A%22net%7Cip_address%22%2C%22label%22%3A%22IPv4%20Address%22%7D%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A2%2C%22x%22%3A101.34300158779695%2C%22y%22%3A30.465330364790248%2C%22px%22%3A101.34300158779695%2C%22py%22%3A30.465330364790248%2C%22x0%22%3A100.45055316250398%2C%22y0%22%3A31.357776882734584%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_6f85a754-fa42-4baa-a308-3d09487a1f52_1491183274576%22%2C%22fixed%22%3Atrue%2C%22onDrag%22%3Afalse%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A1%2C%22icon%22%3A%22images/resknd/default/NSX_EdgeServicesGateway.png%22%2C%22adapterkndKey%22%3A%22NSX%22%2C%22degree%22%3A1%2C%22index%22%3A1%2C%22resknd%22%3A%22NSX-vSphere%20Edge%22%2C%22uuid%22%3A%22d4f6e4d3-ef11-496e-ae3e-713b1c210eb6%22%2C%22resKndId%22%3A%22002003NSXEdgeServicesGateway%22%2C%22reskndKey%22%3A%22EdgeServicesGateway%22%2C%22root%22%3Afalse%2C%22name%22%3A%22srvnsxedge01%22%2C%22healthColor%22%3A%22%23fcc700%22%2C%22darkerHealthColor%22%3A%22%23b08b00%22%2C%22properties%22%3A%5B%7B%22attrkey%22%3A%22interface%7Csubnet_mask%22%2C%22label%22%3A%22Subnet%20Mask%22%7D%2C%7B%22attrkey%22%3A%22config%7Csize%22%2C%22label%22%3A%22Appliance%20Size%22%7D%2C%7B%22attrkey%22%3A%22interface%7Ctype%22%2C%22label%22%3A%22Interface%20Type%22%7D%2C%7B%22attrkey%22%3A%22config%7Cstandby_vm%22%2C%22label%22%3A%22Standby%20VM%22%7D%2C%7B%22attrkey%22%3A%22interface%7Cip_address%22%2C%22label%22%3A%22IP%20Address%22%7D%2C%7B%22attrkey%22%3A%22config%7Cactive_vm%22%2C%22label%22%3A%22Active%20VM%22%7D%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A2%2C%22x%22%3A212.32189215994777%2C%22y%22%3A22.953514139215912%2C%22px%22%3A212.32189215994777%2C%22py%22%3A22.953514139215912%2C%22x0%22%3A212.32189215994777%2C%22y0%22%3A22.953514139215912%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A1%2C%22darkerRiskColor%22%3A%22%23b08b00%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23fcc700%22%2C%22riskState%22%3A1%2C%22tooltipId%22%3A%22tooltip_d4f6e4d3-ef11-496e-ae3e-713b1c210eb6_1491183274576%22%2C%22fixed%22%3Atrue%2C%22onDrag%22%3Afalse%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/NSX_SSLVPNEdgeService.png%22%2C%22adapterkndKey%22%3A%22NSX%22%2C%22degree%22%3A0%2C%22index%22%3A2%2C%22resknd%22%3A%22NSX-vSphere%20Edge%20SSL%20VPN%20Service%22%2C%22uuid%22%3A%2213ecdf7d-2775-45df-93a1-051111a32ae9%22%2C%22resKndId%22%3A%22002003NSXSSLVPNEdgeService%22%2C%22reskndKey%22%3A%22SSLVPNEdgeService%22%2C%22root%22%3Afalse%2C%22name%22%3A%22srvnsxedge01%20SSL%20VPN%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%7B%22attrkey%22%3A%22config%7Cport%22%2C%22label%22%3A%22Port%22%7D%2C%7B%22attrkey%22%3A%22config%7Cip_address%22%2C%22label%22%3A%22IP%20Address%22%7D%2C%7B%22attrkey%22%3A%22config%7Cciphers%22%2C%22label%22%3A%22Encryption%20Algorithms%22%7D%5D%2C%22notInState%22%3Afalse%2C%22x%22%3A334.15550138548053%2C%22y%22%3A62.4365963882164%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22px%22%3A334.15550138548053%2C%22py%22%3A62.4365963882164%2C%22x0%22%3A334.15550138548053%2C%22y0%22%3A62.4365963882164%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_13ecdf7d-2775-45df-93a1-051111a32ae9_1491183274576%22%2C%22fixed%22%3Atrue%2C%22onDrag%22%3Afalse%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/VMWARE_HostSystem.png%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A3%2C%22index%22%3A3%2C%22resknd%22%3A%22Host%20System%22%2C%22uuid%22%3A%223a22d966-e4c2-4dc8-9218-25f815c71efc%22%2C%22resKndId%22%3A%22002006VMWAREHostSystem%22%2C%22reskndKey%22%3A%22HostSystem%22%2C%22root%22%3Afalse%2C%22name%22%3A%22192.168.1.4%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%7B%22attrkey%22%3A%22config%7Cnetwork%7Cnnic%22%2C%22label%22%3A%22Physical%20NIC%20Count%22%7D%2C%7B%22attrkey%22%3A%22net%7Cmgmt_address%22%2C%22label%22%3A%22Management%20Address%22%7D%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A-13.571528572826395%2C%22y%22%3A3.1528685405938006%2C%22px%22%3A-13.571528572826395%2C%22py%22%3A3.1528685405938006%2C%22x0%22%3A-13.571528572826395%2C%22y0%22%3A3.1528685405938006%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_3a22d966-e4c2-4dc8-9218-25f815c71efc_1491183274576%22%2C%22fixed%22%3Atrue%2C%22onDrag%22%3Afalse%7D%5D%2C%22removedNodesMap%22%3A%7B%7D%7D"
+               }
+            ],
+            "title": "Physical Topology",
+            "type": "TopologyGraph",
+            "x": 2,
+            "y": 2
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 5,
+               "boxHeight": null,
+               "labelSize": 10,
+               "metric": {
+                  "mode": "resource",
+                  "resourceKindMetrics": [],
+                  "resourceMetrics": []
+               },
+               "mode": {"layoutMode": "fixedSize"},
+               "periodLength": null,
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 296,
+               "resInteractionMode": "nsx-ssl-edge-frw-log",
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": false},
+               "title": "Live Metrics",
+               "valueSize": 20,
+               "visualTheme": 1
+            },
+            "gridsterCoords": {
+               "h": 10,
+               "w": 3,
+               "x": 1,
+               "y": 9
+            },
+            "height": 350,
+            "id": "cdd5862b-531f-4340-bb8e-b80d4d6e0342",
+            "title": "Live Metrics",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 8,
+               "w": 2,
+               "x": 5,
+               "y": 1
+            },
+            "height": 278,
+            "id": "ccbcdab7-699a-431c-9602-ff842cedee51",
+            "states": [
+               {
+                  "key": "permFetchCommonMetrics_permMetricPicker_widget_b567cd33-9998-4627-9fab-f0102135f547_ccbcdab7-699a-431c-9602-ff842cedee51",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permFetchCollectingMetrics_permMetricPicker_widget_b567cd33-9998-4627-9fab-f0102135f547_ccbcdab7-699a-431c-9602-ff842cedee51",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permMetricPicker_widget_b567cd33-9998-4627-9fab-f0102135f547_ccbcdab7-699a-431c-9602-ff842cedee51",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1"
+               },
+               {
+                  "key": "permFetchPropertyMetrics_permMetricPicker_widget_b567cd33-9998-4627-9fab-f0102135f547_ccbcdab7-699a-431c-9602-ff842cedee51",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Metric Picker",
+            "type": "MetricPicker"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 15,
+               "w": 3,
+               "x": 4,
+               "y": 9
+            },
+            "height": 530,
+            "id": "f68182ed-055d-4a8a-9b73-26906e4ebd4c",
+            "states": [
+               {
+                  "key": "permMetricChart_widget_b567cd33-9998-4627-9fab-f0102135f547_f68182ed-055d-4a8a-9b73-26906e4ebd4c",
+                  "value": "o%3A"
+               },
+               {
+                  "key": "permBtn_pan_permMetricChart_widget_b567cd33-9998-4627-9fab-f0102135f547_f68182ed-055d-4a8a-9b73-26906e4ebd4c",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permBtn_zoomAllGraphs_permMetricChart_widget_b567cd33-9998-4627-9fab-f0102135f547_f68182ed-055d-4a8a-9b73-26906e4ebd4c",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permDateRange1_permMetricChart_widget_b567cd33-9998-4627-9fab-f0102135f547_f68182ed-055d-4a8a-9b73-26906e4ebd4c",
+                  "value": "s%3A%7B%22dateRange%22%3A%22last6Hour%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               }
+            ],
+            "title": "Metric Chart",
+            "type": "MetricChart"
+         }
+      ]
+   }],
+   "entries": {"resourceKind": [
+      {
+         "adapterKindKey": "NSX",
+         "internalId": "resourceKind:id:3_::_",
+         "resourceKindKey": "FirewallEdgeService"
+      },
+      {
+         "adapterKindKey": "NSX",
+         "internalId": "resourceKind:id:2_::_",
+         "resourceKindKey": "EdgeServicesGateway"
+      },
+      {
+         "adapterKindKey": "NSX",
+         "internalId": "resourceKind:id:4_::_",
+         "resourceKindKey": "SSLVPNEdgeService"
+      },
+      {
+         "adapterKindKey": "NSX",
+         "internalId": "resourceKind:id:1_::_",
+         "resourceKindKey": "LogicalSwitch"
+      },
+      {
+         "adapterKindKey": "NSX",
+         "internalId": "resourceKind:id:0_::_",
+         "resourceKindKey": "LogicalRouter"
+      }
+   ]},
+   "uuid": "a4e8b436-f13c-400e-b099-12ac8b99244f"
+}
